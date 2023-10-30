@@ -1,0 +1,3 @@
+cx_Freeze==6.15.10
+cx_Freeze==6.15.10
+pynput==1.7.6
