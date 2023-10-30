@@ -29,7 +29,7 @@ def email(msj):
         smtpObj.starttls(context=context) #Inicia la comunicación con el servidor
         smtpObj.ehlo()
         smtpObj.login("Ingresa aquí tu usuario de correo", "Ingresa aquí tu contraseña de correo") #Inicia sesión en tu correo
-        smtpObj.sendmail("tu_correo@gamil.com", "tu_correo@gamil.com", str(msj)) #Para enviar el mensaje al correo ingresado
+        smtpObj.sendmail("tu_correo@gmail.com", "tu_correo@gmail.com", str(msj)) #Para enviar el mensaje al correo ingresado
     finally: #Cuando finalice que cierre la conexión
         smtpObj.quit()
         
