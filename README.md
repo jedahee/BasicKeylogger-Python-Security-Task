@@ -2,21 +2,9 @@
 
 _Classic **Keylogger** made with **Python**! This script was developed by me when I was a student, the purpose was student for the Python Security course._
 
-![image](https://github.com/jedahee/Minesweeper-Game-Python-CMD/assets/56111700/dd3d2abc-c2b8-4bdf-aadb-685b988b90c7)
-
 ## Getting Started 🚀
 
 _You need to clone the project in a local environment._
-
-### How to use
-
-The rules are the same as those of the original game.
-
-The different options you can perform are:
-
-1. Select on a checkbox (indicating the row and column index)
-2. Check box with pump
-3. Release already checked box
 
 _To run the script:_
 
